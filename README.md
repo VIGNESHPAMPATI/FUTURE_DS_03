@@ -23,11 +23,11 @@ This project answers key business questions:
 
 ### Executive Overview
 
-![Executive Overview](executive overview.png)
+![Executive Overview](executive_overview.png)
 
 ### Customer Behaviour Analysis
 
-![Customer Behaviour Analysis](customer_behaviour.png)
+![Customer Behaviour Analysis](customer_behaviour_analysis.png)
 
 ### Funnel Intelligence & Strategic Recommendations
 
