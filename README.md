@@ -221,3 +221,12 @@ This project demonstrates the ability to:
 - Connect backend analysis with dashboard storytelling
 
 This project is designed as a professional analytics portfolio case study, showing both technical workflow and business intelligence thinking.
+
+## Project Files
+
+- [Customer Retention Analysis.pbix](customer%20retention%20analysis%20.pbix)
+- [bank-additional-full-csv.xlsx](bank-additional-full.csv.xlsx)
+- [README.md](README.md)
+
+# Author
+Prepared by: Pampati Vignesh
