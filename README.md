@@ -48,7 +48,7 @@ This project answers key business questions:
 Dataset: UCI Bank Marketing Dataset  
 File used: `bank-additional-full.csv.xlsx`  
 Records analyzed: **41,188 campaign records**  
-Target variable: `y`, indicating whether the customer subscribed to a term deposit.
+Target variable: `conversion status`, indicating whether the customer subscribed to a term deposit.
 
 The dataset contains customer demographics, campaign contact details, previous campaign outcomes, economic indicators, and the final conversion result.
 
@@ -108,7 +108,7 @@ This page converts analysis into decision support:
 
 ## Python Notebook Workflow
 
-The Jupyter Notebook complements the Power BI dashboard by proving the backend analytical process.
+The Jupyter Notebook complements the Power BI dashboard by documenting the backend analytical process.
 
 Notebook sections include:
 
@@ -230,3 +230,12 @@ This project is designed as a professional analytics portfolio case study, showi
 
 # Author
 Prepared by: Pampati Vignesh
+
+## Project Status
+
+Completed:
+- Power BI dashboard
+- Jupyter Notebook analysis
+- Feature engineering
+- Business insights and recommendations
+- GitHub documentation
