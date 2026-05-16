@@ -27,7 +27,7 @@ This project answers key business questions:
 
 ### Customer Behaviour Analysis
 
-![Customer Behaviour Analysis](customer_behaviour_analysis.png)
+![Customer Behaviour Analysis](consumer_behaviour_analysis.png)
 
 ### Funnel Intelligence & Strategic Recommendations
 
