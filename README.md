@@ -228,8 +228,7 @@ This project is designed as a professional analytics portfolio case study, showi
 - [bank-additional-full-csv.xlsx](bank-additional-full.csv.xlsx)
 - [README.md](README.md)
 
-# Author
-Prepared by: Pampati Vignesh
+
 
 ## Project Status
 
@@ -239,3 +238,6 @@ Completed:
 - Feature engineering
 - Business insights and recommendations
 - GitHub documentation
+
+# Author
+Prepared by: Pampati Vignesh
